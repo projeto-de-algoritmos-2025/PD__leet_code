@@ -15,7 +15,7 @@ Foram realizadas 4 questões do leetcode e uma questão do Beecrowd sobre a abor
 
 | Problema | Nome                                   | Dificuldade |
 |----------|----------------------------------------|-------------|
-|           |                                        | Médio       |
+| [198](https://leetcode.com/problems/house-robber/)         |     House Robber                                  | Médio       |
 |          |                                        | Difícil     |
 
        
@@ -23,6 +23,9 @@ Foram realizadas 4 questões do leetcode e uma questão do Beecrowd sobre a abor
 
 
 ## Screenshots
+
+### Questão House Robber
+<img src="./images/HouseRobber.png" alt="Q1" width="600"/>
  
 
 
