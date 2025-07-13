@@ -16,7 +16,7 @@ Foram realizadas 4 questões do leetcode e uma questão do Beecrowd sobre a abor
 | Problema | Nome                                   | Dificuldade |
 |----------|----------------------------------------|-------------|
 | [198](https://leetcode.com/problems/house-robber/)        |     House Robber                                  | Médio       |
-| [72](https://leetcode.com/problems/edit-distance/)        |     Edit Distance                                 | Difícil     |
+| [72](https://leetcode.com/problems/edit-distance/)        |     Edit Distance                                 | Médio    |
 
        
 
