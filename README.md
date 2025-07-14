@@ -17,6 +17,10 @@ Foram realizadas 4 questões do leetcode e uma questão do Beecrowd sobre a abor
 |----------|----------------------------------------|-------------|
 | [198](https://leetcode.com/problems/house-robber/)        |     House Robber                                  | Médio       |
 | [72](https://leetcode.com/problems/edit-distance/)        |     Edit Distance                                 | Médio    |
+| [312](https://leetcode.com/problems/burst-balloons/description/)        |   Burst Ballons                               | Difícil    |
+| [879](https://leetcode.com/problems/profitable-schemes/description/)        |   Profitable Schemes                             | Difícil    |
+| [741](https://leetcode.com/problems/cherry-pickup/description/)        |  Cherry Pickup                          | Difícil    |
+
 
        
 
@@ -29,7 +33,15 @@ Foram realizadas 4 questões do leetcode e uma questão do Beecrowd sobre a abor
 
 ### Questão Edit Distance
 <img src="./images/EditDistance.png" alt="Q1" width="600"/>
- 
+
+ ### Questão Profitable Schemes
+<img src="./images/profitableSchemes.png" alt="Q1" width="600"/>
+
+ ### Questão Burst Ballons
+<img src="./images/BurstBalloons.png" alt="Q1" width="600"/>
+
+ ### Questão Cherry Pickup
+<img src="./images/CherryPickup.png" alt="Q1" width="600"/>
 
 
 ## Instalação 
